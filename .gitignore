@@ -1,0 +1,50 @@
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Laravel dependencies
+/vendor/
+
+# Laravel runtime
+/storage/logs/*
+/storage/framework/cache/*
+/storage/framework/sessions/*
+/storage/framework/views/*
+
+# Node dependencies
+node_modules/
+
+# Next.js / build output
+.next/
+out/
+
+# Logs
+*.log
+
+# Backups / archives
+*.zip
+*.tar
+*.tar.gz
+*.gz
+
+# Database dumps
+*.sql
+*.sql.gz
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Backup package files
+*.backup
+filament_db
+*.zip

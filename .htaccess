@@ -1,0 +1,3 @@
+<FilesMatch "^\.|\.(env|zip|lock|sqlite|db)$">
+    Require all denied
+</FilesMatch>

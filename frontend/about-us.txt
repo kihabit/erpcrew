@@ -1,0 +1,347 @@
+1:"$Sreact.fragment"
+3:I[8456,[],""]
+4:I[1182,[],""]
+6:I[6274,[],"OutletBoundary"]
+7:"$Sreact.suspense"
+a:I[6274,[],"ViewportBoundary"]
+c:I[6274,[],"MetadataBoundary"]
+e:I[1924,[],"default",1]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/4cac28f3bf5026a5.css","style"]
+:HL["/_next/static/css/f36b0ac07daac0eb.css","style"]
+9:X
+0:{"P":null,"c":["","about-us"],"q":"","i":false,"f":[[["",{"children":["about-us",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4cac28f3bf5026a5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f36b0ac07daac0eb.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],"$L2"]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],{},null,false,null]},null,false,"$9"]},null,false,null],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$Lb"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":"$Ld"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$e",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"Ky-5jio9BQJtTTWhv7r-5"}
+9:C
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:I[9608,["681","static/chunks/681-08cca2d0fdb13ca5.js","851","static/chunks/app/about-us/page-bbc9d0b04551db26.js"],"default"]
+10:T6ba3,<!-- HERO -->
+<style>
+  @media (max-width: 767px) {
+    .about-hero-bg-img { object-position: 72% center !important; }
+    .about-hero-overlay-grad {
+      background:
+        linear-gradient(90deg, rgba(255,255,255,0.98) 0%, rgba(255,255,255,0.92) 46%, rgba(255,255,255,0.28) 100%),
+        linear-gradient(180deg, rgba(255,255,255,0.2) 0%, rgba(255,255,255,0.82) 72%, rgba(255,255,255,0.98) 100%) !important;
+    }
+  }
+</style>
+<section style="position:relative;overflow:hidden;min-height:calc(100vh - 5.375rem - 45px);display:flex;align-items:stretch;">
+  <div style="position:absolute;inset:0;z-index:0;">
+    <img class="about-hero-bg-img" src="http://127.0.0.1:8000/storage/media/free-consultation-about-hero-banner_20260914_092037853_IST_n8gta1.webp" alt="Key Dynamics Solutions" loading="eager" fetchpriority="high" decoding="async" style="width:100%;height:100%;object-fit:cover;object-position:center right;display:block;background-color:#f3f4f6;" />
+  </div>
+<div class="about-hero-overlay-grad" style="position:absolute;inset:0;z-index:1;background:transparent;"></div>
+  <div style="position:relative;z-index:2;display:flex;align-items:center;width:100%;max-width:1440px;margin:0 auto;padding:4rem 2.5rem;">
+    <div style="max-width:480px;width:100%;">
+      <img src="http://127.0.0.1:8000/storage/media/about-hero-logo_20260914_092216711_IST_9izokl.webp" alt="KDS ERP Crew" loading="eager" fetchpriority="high" decoding="async" style="height:3.5rem;object-fit:contain;margin-bottom:1.75rem;" />
+      <h1 style="font-size:2.5rem;font-weight:700;line-height:1.15;color:#051895;margin:0 0 1rem;">About<br />Key Dynamics Solutions</h1>
+<p style="font-size:1.0625rem;line-height:1.65;color:#334155;margin:0;max-width:40ch;">Empowering businesses through innovation, quality, and customer satisfaction.</p>
+    </div>
+  </div>
+</section>
+
+<!-- WELCOME SECTION -->
+<section style="background:#fff;padding:4rem 4rem;">
+  <div style="max-width:1440px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center;">
+    <div>
+      <span style="display:inline-block;font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:0.1em;color:#2ababe;margin-bottom:0.75rem;">Welcome</span>
+      <h2 style="font-size:2.125rem;font-weight:800;color:#051895;line-height:1.2;margin:0 0 1.25rem;">Welcome to Key Dynamics Solutions</h2>
+      <p style="font-size:1rem;font-weight:500;color:#374151;line-height:1.7;margin:0 0 1rem;">We provide intelligent business solutions to help our clients in creating the better future.</p>
+      <p style="font-size:0.9375rem;color:#6b7280;line-height:1.75;margin:0 0 1rem;">With expertise across ERP, CRM, Business Intelligence, AI, and cloud technologies, KDS delivers end-to-end consulting, implementation, customization, integration, migration, support, and managed services tailored to each organization's unique business needs.</p>
+      <p style="font-size:0.9375rem;color:#6b7280;line-height:1.75;margin:0 0 1rem;">Serving clients across multiple industries, KDS combines deep domain expertise with a customer-centric approach to build scalable, future-ready solutions that drive measurable business value. From modernizing business processes to enabling intelligent decision-making, KDS empowers organizations to transform with confidence.</p>
+      <p style="font-size:0.9375rem;color:#6b7280;line-height:1.75;margin:0 0 1.75rem;">Driven by innovation, quality, and long-term partnerships, Key Dynamics Solutions continues to help businesses embrace digital transformation and achieve sustainable success.</p>
+      <a href="https://keydynamicssolutions.com/" target="_blank" rel="noopener noreferrer" style="display:inline-flex;align-items:center;gap:0.5rem;background:#051895;color:#fff;font-size:0.9375rem;font-weight:600;padding:0.75rem 1.625rem;border-radius:0.5rem;text-decoration:none;">Know More About KDS →</a>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+      <img src="https://uat.erpcrew.ai/storage/media/erp-crm-business-intelligence-ai_20260912_164206082_IST_occevv.webp" alt="KDS key statistics" loading="lazy" decoding="async" style="width:100%;max-width:540px;height:auto;display:block;background-color:#f3f4f6;" />
+    </div>
+  </div>
+</section>
+
+<!-- MEET ERP CREW -->
+<section style="background:#f8faff;padding:4rem 4rem;border-top:1px solid #e5e7eb;">
+  <div style="max-width:1440px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center;">
+    <div>
+      <span style="display:inline-flex;align-items:center;gap:0.5rem;background:#2ababe;color:#fff;font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;border-radius:0.375rem;padding:0.3rem 0.75rem;margin-bottom:0.75rem;">
+        <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
+        KDS ERP Crew
+      </span>
+      <h2 style="font-size:2.125rem;font-weight:800;color:#051895;line-height:1.2;margin:0 0 0.75rem;">Meet KDS ERP Crew</h2>
+      <p style="font-size:1rem;font-weight:600;color:#2ababe;line-height:1.5;margin:0 0 1.25rem;">AI-powered ERP automation with real-time business insights.</p>
+      <p style="font-size:0.9375rem;color:#6b7280;line-height:1.75;margin:0 0 1rem;">KDS ERP Crew is an AI-powered ERP assistant platform that simplifies enterprise operations by enabling users to interact with ERP systems through natural language. It combines intelligent automation with role-based AI assistants to streamline business processes, improve productivity, and provide real-time insights for faster, data-driven decision-making.</p>
+      <p style="font-size:0.9375rem;color:#6b7280;line-height:1.75;margin:0 0 1rem;">KDS ERP Crew also delivers on-demand analytics, KPIs, and dashboards through simple natural language interactions, making enterprise data easily accessible to users across the organization. With AI-powered governance, it accelerates approval workflows, reduces manual effort, enhances operational efficiency, and enables organizations to make smarter business decisions with greater speed and accuracy.</p>
+    </div>
+    <div style="display:flex;align-items:center;justify-content:center;">
+      <img src="https://uat.erpcrew.ai/storage/media/erp-crew_20260912_164559673_IST_vt6hwg.webp" alt="KDS ERP Crew" loading="lazy" decoding="async" style="width:100%;max-width:520px;height:auto;display:block;background-color:#f8faff;" />
+    </div>
+  </div>
+</section>
+
+<!-- WHY ERP CREW -->
+<section style="background:#fff;padding:4rem 4rem;border-top:1px solid #e5e7eb;">
+  <div style="max-width:1440px;margin:0 auto;">
+    <div style="display:inline-flex;align-items:center;gap:0.5rem;background:#2ababe;color:#fff;font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;border-radius:0.375rem;padding:0.3rem 0.75rem;margin-bottom:0.75rem;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>
+      Why KDS ERP Crew
+    </div>
+    <h2 style="font-size:2.125rem;font-weight:800;color:#051895;margin:0 0 0.875rem;line-height:1.2;">Why KDS ERP Crew?</h2>
+    <p style="font-size:1rem;font-weight:600;color:#2ababe;line-height:1.6;margin:0 0 2rem;max-width:72ch;">Connect multiple ERP systems with AI-powered automation, real-time insights, and centralized governance.</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;">
+      <div style="border-radius:1rem;padding:2rem 2.25rem;background:#f8faff;border:1px solid #dce3f7;">
+        <div style="display:inline-flex;align-items:center;gap:0.4rem;font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.09em;border-radius:99px;padding:0.25rem 0.75rem;background:#fee2e2;color:#b91c1c;margin-bottom:0.875rem;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+          The Challenge
+        </div>
+        <div style="font-size:1.0625rem;font-weight:700;line-height:1.3;color:#051895;margin-bottom:0.875rem;">Fragmented operations across multiple ERP systems</div>
+        <p style="font-size:0.9rem;line-height:1.75;color:#4b5563;">Organizations often operate multiple ERP systems across different business entities, with each ERP managing its own procurement, vendors, purchase orders, approvals, and reporting. While this supports entity-level operations, it often results in fragmented data, inconsistent workflows, and limited enterprise-wide visibility.</p>
+      </div>
+      <div style="border-radius:1rem;padding:2rem 2.25rem;background:#051895;border:1px solid #051895;color:#fff;">
+        <div style="display:inline-flex;align-items:center;gap:0.4rem;font-size:0.72rem;font-weight:700;text-transform:uppercase;letter-spacing:0.09em;border-radius:99px;padding:0.25rem 0.75rem;background:rgba(255,255,255,0.15);color:#fff;margin-bottom:0.875rem;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
+          The Solution
+        </div>
+        <div style="font-size:1.0625rem;font-weight:700;line-height:1.3;color:#fff;margin-bottom:0.875rem;">A unified AI layer — without replacing your ERPs</div>
+        <p style="font-size:0.9rem;line-height:1.75;color:rgba(255,255,255,0.85);">KDS ERP Crew addresses these challenges by providing a centralized AI-powered operations layer that works seamlessly across existing ERP systems — without replacing them. It unifies procurement intelligence, streamlines approval processes, delivers real-time business insights, and strengthens governance across the enterprise, enabling organizations to make faster and smarter business decisions.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- KEY CHALLENGES -->
+<section style="background:#f8faff;padding:4rem 4rem;border-top:1px solid #e5e7eb;">
+  <div style="max-width:1440px;margin:0 auto;">
+    <div style="display:inline-flex;align-items:center;gap:0.5rem;background:#2ababe;color:#fff;font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:0.08em;border-radius:0.375rem;padding:0.3rem 0.75rem;margin-bottom:0.75rem;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      Challenges Solved
+    </div>
+    <h2 style="font-size:2.125rem;font-weight:800;color:#051895;margin:0 0 2.5rem;line-height:1.2;">Key Challenges Solved by KDS ERP Crew</h2>
+
+    <div style="display:flex;overflow-x:auto;gap:0;position:relative;">
+      <!-- 1. Fragmented Data -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#051895;">Fragmented<br>Data</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#051895;box-shadow:0 0 0 2px #051895;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #051895;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#051895;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><ellipse cx="12" cy="5" rx="9" ry="3"/><path d="M3 5v4c0 1.657 4.029 3 9 3s9-1.343 9-3V5"/><path d="M3 13v4c0 1.657 4.029 3 9 3s9-1.343 9-3v-4"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#051895;">Fragmented Data</strong>
+          Gain a unified view of enterprise-wide procurement and spend.
+        </div>
+      </div>
+
+      <!-- 2. Approval Gaps -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#f97316;">Approval<br>Gaps</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#f97316;box-shadow:0 0 0 2px #f97316;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #f97316;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#f97316;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#f97316;">Approval Gaps</strong>
+          Standardize and automate approval workflows with AI-powered governance.
+        </div>
+      </div>
+
+      <!-- 3. Planning Blind Spots -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#2ababe;">Planning<br>Blind Spots</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#2ababe;box-shadow:0 0 0 2px #2ababe;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #2ababe;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#2ababe;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#2ababe;">Planning Blind Spots</strong>
+          Connect procurement, vendor, item, and entity data for better planning.
+        </div>
+      </div>
+
+      <!-- 4. Limited Spend Control -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#1e6bb8;">Limited Spend<br>Control</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#1e6bb8;box-shadow:0 0 0 2px #1e6bb8;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #1e6bb8;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#1e6bb8;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#1e6bb8;">Limited Spend Control</strong>
+          Improve spend visibility and identify cost-saving opportunities.
+        </div>
+      </div>
+
+      <!-- 5. Manual Reporting -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#6366f1;">Manual<br>Reporting</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#6366f1;box-shadow:0 0 0 2px #6366f1;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #6366f1;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#6366f1;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#6366f1;">Manual Reporting</strong>
+          Replace spreadsheets with real-time analytics, KPIs, and dashboards.
+        </div>
+      </div>
+
+      <!-- 6. Weak Governance -->
+      <div style="flex:1 0 0%;min-width:148px;display:flex;flex-direction:column;align-items:center;padding:0 0.5rem;position:relative;">
+        <div style="display:flex;align-items:center;justify-content:center;text-align:center;width:100%;max-width:140px;height:3.25rem;padding:0 0.85rem;border-radius:0.4rem;font-size:0.78rem;font-weight:700;color:#fff;line-height:1.3;background:#0d9488;">Weak<br>Governance</div>
+        <div style="position:relative;width:100%;height:2.25rem;display:flex;align-items:center;justify-content:center;">
+          <div style="width:13px;height:13px;border-radius:50%;border:2.5px solid #fff;background:#0d9488;box-shadow:0 0 0 2px #0d9488;"></div>
+        </div>
+        <div style="width:70px;height:70px;border-radius:50%;border:2.5px solid #0d9488;display:flex;align-items:center;justify-content:center;background:#fff;margin-bottom:1rem;color:#0d9488;">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <div style="font-size:0.82rem;line-height:1.65;color:#4b5563;text-align:center;max-width:175px;">
+          <strong style="display:block;font-weight:700;margin-bottom:0.3rem;font-size:0.84rem;color:#0d9488;">Weak Governance</strong>
+          Strengthen audit trails, compliance, and approval controls across all entities.
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<!-- KEY TAKEAWAY -->
+<section style="background:#051895;padding:3rem 4rem;">
+  <div style="max-width:860px;margin:0 auto;text-align:center;">
+    <div style="display:inline-flex;align-items:center;gap:0.5rem;background:rgba(255,255,255,0.12);border:1px solid rgba(255,255,255,0.25);color:#fff;font-size:0.75rem;font-weight:700;text-transform:uppercase;letter-spacing:0.09em;border-radius:99px;padding:0.35rem 1rem;margin-bottom:1.25rem;">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>
+      Key Takeaway
+    </div>
+    <p style="font-size:1.1875rem;line-height:1.8;color:rgba(255,255,255,0.90);font-weight:400;margin:0;">KDS ERP Crew acts as an intelligent operations layer on top of existing ERP systems, helping organizations automate processes, improve visibility, accelerate approvals, and drive smarter, more governed business operations.</p>
+  </div>
+</section>
+
+<!-- CONSULTATION FORM -->
+<section style="background:#fff;padding:4rem 4rem;border-top:1px solid #e5e7eb;">
+  <div style="max-width:1440px;margin:0 auto;display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center;">
+    <div style="display:flex;align-items:center;justify-content:center;">
+      <img src="https://uat.erpcrew.ai/storage/media/free-consultation_20260912_164838449_IST_dqfncw.webp" alt="Get Free Consultation" loading="lazy" decoding="async" style="width:100%;max-width:460px;height:auto;display:block;background-color:#f3f4f6;" />
+    </div>
+    <div>
+      <h2 style="font-size:1.875rem;font-weight:800;color:#051895;margin:0 0 1.75rem;line-height:1.2;">Get Free Consultation</h2>
+      <form id="contact-form" action="#" method="post">
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.875rem;margin-bottom:0.875rem;">
+          <input type="text" name="first_name" placeholder="First Name" required style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+          <input type="text" name="last_name" placeholder="Last Name" required style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.875rem;margin-bottom:0.875rem;">
+          <input type="text" name="company" placeholder="Company Name" style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+          <select name="country" style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;">
+            <option value="">Select Country</option>
+            <option>United Arab Emirates</option>
+            <option>Saudi Arabia</option>
+            <option>United States</option>
+            <option>United Kingdom</option>
+            <option>India</option>
+            <option>Australia</option>
+            <option>Canada</option>
+            <option>Singapore</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.875rem;margin-bottom:0.875rem;">
+          <input type="email" name="email" placeholder="Email Address" required style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+          <input type="tel" name="phone" placeholder="Phone Number" style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+        </div>
+        <div style="margin-bottom:0.875rem;">
+          <input type="text" name="looking_for" placeholder="Looking For?" style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;box-sizing:border-box;" />
+        </div>
+        <div style="margin-bottom:0.875rem;">
+          <textarea name="message" placeholder="Message" style="width:100%;border:1.5px solid #d1d5db;border-radius:0.5rem;padding:0.7rem 1rem;font-size:0.9rem;min-height:120px;box-sizing:border-box;"></textarea>
+        </div>
+        <button type="submit" id="cf-submit-btn" style="display:inline-flex;align-items:center;justify-content:center;gap:0.5rem;background:#2ababe;color:#fff;font-size:0.9375rem;font-weight:700;padding:0.8rem 2.25rem;border-radius:0.5rem;border:none;cursor:pointer;">Submit →</button>
+        <p id="cf-status" style="margin-top:0.75rem;font-size:0.875rem;"></p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<script>
+(function () {
+  const form = document.getElementById('contact-form');
+  const btn = document.getElementById('cf-submit-btn');
+  const status = document.getElementById('cf-status');
+
+  form.addEventListener('submit', async function (e) {
+    e.preventDefault();
+
+    const payload = {
+      first_name: form.first_name.value,
+      last_name: form.last_name.value,
+      company_name: form.company.value,
+      country: form.country.value,
+      email: form.email.value,
+      phone: form.phone.value,
+      looking_for: form.looking_for.value,
+      message: form.message.value,
+    };
+
+    btn.disabled = true;
+    btn.textContent = 'Sending...';
+    status.style.color = '#374151';
+    status.textContent = '';
+
+    try {
+      const res = await fetch('http://uat.erpcrew.ai/api/consultation', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+
+      const result = await res.json();
+
+      if (res.ok) {
+        status.style.color = '#16a34a';
+        status.textContent = result.message || 'Thank you! We will contact you soon.';
+        form.reset();
+      } else {
+        status.style.color = '#dc2626';
+        status.textContent = result.message || 'Please check your inputs and try again.';
+        console.error(result);
+      }
+    } catch (err) {
+      status.style.color = '#dc2626';
+      status.textContent = 'Something went wrong. Please try again.';
+      console.error('Submit error:', err);
+    } finally {
+      btn.disabled = false;
+      btn.textContent = 'Submit →';
+    }
+  });
+})();
+</script>5:[["$","main",null,{"children":[false,["$","$Lf",null,{"html":"$10"}]]}],"$L11"]
+12:I[5210,["681","static/chunks/681-08cca2d0fdb13ca5.js","958","static/chunks/958-35ffa5ce96db1e91.js","177","static/chunks/app/layout-593c92abea52dc32.js"],"default"]
+14:I[2681,["681","static/chunks/681-08cca2d0fdb13ca5.js","851","static/chunks/app/about-us/page-bbc9d0b04551db26.js"],""]
+15:I[4352,[],"IconMark"]
+:HL["/images/erp-crew-management.webp","image",{"fetchPriority":"high"}]
+2:["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","as":"image","href":"/images/erp-crew-management.webp","fetchPriority":"high"}]}],["$","body",null,{"className":"__className_d0be19","children":[["$","$L12",null,{"code":null}],"$L13",["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-semibold","style":{"color":"#051895"},"children":"404"}],["$","p",null,{"className":"mt-3 text-lg text-gray-500","children":"This page could not be found."}],["$","$L14",null,{"href":"/","className":"mt-6 inline-flex items-center rounded-full px-6 py-3 text-sm font-semibold text-white transition hover:brightness-110","style":{"backgroundColor":"#051895"},"children":"Back to Home"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]
+8:null
+d:[["$","title","0",{"children":"Enterprise AI Agent Catalogue — KDS ERP Crew"}],["$","meta","1",{"name":"description","content":"A comprehensive library of enterprise AI agents built to automate, orchestrate, and optimize business processes across Microsoft Dynamics 365."}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}],["$","$L15","3",{}]]
+:HL["https://uat.erpcrew.ai/api/storage/logos/01M2F031H4AF9QMJKGHMA5JGKC.webp","image"]
+11:[["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"site-footer-content","children":["$","div",null,{"className":"site-footer-grid","children":[["$","div",null,{"className":"site-footer-brand","children":[["$","img",null,{"className":"site-footer-logo","src":"https://uat.erpcrew.ai/api/storage/logos/01M2F031H4AF9QMJKGHMA5JGKC.webp","alt":"KDS ERP Crew"}],["$","h2",null,{"className":"site-footer-heading","children":"About Key Dynamics Solutions (KDS)"}],["$","p",null,{"className":"site-footer-about","children":"KDS ERP Crew is an AI-powered enterprise automation platform developed and owned by Key Dynamics Solutions. KDS empowers organizations with AI, ERP, CRM, Data Analytics, and Microsoft Power Platform solutions to simplify operations, automate business processes, and accelerate digital transformation."}],["$","a",null,{"className":"site-footer-brand-link","href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","children":"Visit KDS Website →"}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"site-footer-heading","children":"Agent Library"}],["$","ul",null,{"className":"site-footer-links","children":[["$","li","al-0",{"children":["$","$L14",null,{"href":"/agent-library?category=order-to-cash#catalogue","children":"O2C"}]}],["$","li","al-1",{"children":["$","$L14",null,{"href":"/agent-library?category=procure-to-pay#catalogue","children":"P2P"}]}],["$","li","al-2",{"children":["$","$L14",null,{"href":"/agent-library?category=supply-chain#catalogue","children":"Supply Chain"}]}],["$","li","al-3",{"children":["$","$L14",null,{"href":"/agent-library?category=finance#catalogue","children":"Finance"}]}],["$","li","al-4",{"children":["$","$L14",null,{"href":"/agent-library?category=platform#catalogue","children":"Platform"}]}],["$","li","al-5",{"children":["$","$L14",null,{"href":"/agent-library?category=insurance#catalogue","children":"Insurance"}]}],["$","li","al-6",{"children":["$","$L14",null,{"href":"/agent-library?category=manufacturing#catalogue","children":"Manufacturing"}]}],["$","li","al-7",{"children":["$","$L14",null,{"href":"/agent-library?category=retail-CPG#catalogue","children":"Retail & CPG"}]}],["$","li","al-8",{"children":["$","$L14",null,{"href":"/agent-library?category=healthcare#catalogue","children":"Healthcare"}]}],["$","li","al-9",{"children":["$","$L14",null,{"href":"/agent-library?category=trade-finance#catalogue","children":"Trade Finance"}]}],["$","li","al-10",{"children":["$","$L14",null,{"href":"/agent-library?category=BFSI#catalogue","children":"BFSI"}]}]]}]]}],["$","div",null,{"children":[["$","h2",null,{"className":"site-footer-heading","children":"Quick links"}],["$","ul",null,{"className":"site-footer-links","children":[["$","li","ql-0",{"children":["$","$L14",null,{"href":"/about-us","children":"About us"}]}],["$","li","ql-1",{"children":["$","a",null,{"href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","children":"Blog"}]}],["$","li","ql-2",{"children":["$","a",null,{"href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","children":"Case Studies"}]}],["$","li","ql-3",{"children":["$","a",null,{"href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","children":"Privacy policy"}]}],["$","li","ql-4",{"children":["$","$L14",null,{"href":"/agent-library#catalogue","children":"Agent Library"}]}]]}]]}],["$","div",null,{"className":"site-footer-contact","children":[["$","h2",null,{"className":"site-footer-heading","children":"Contact details"}],["$","ul",null,{"className":"site-footer-contact-list","children":[[["$","li","addr-0",{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","width":"15","height":"15","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"}],["$","circle",null,{"cx":"12","cy":"10","r":"2.5"}]]}]}],["$","span",null,{"children":"0-812 8th Floor EON Plot, No-01A, Sector 140A, Noida, Uttar Pradesh 201304"}]]}],["$","li","addr-1",{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":"$L16"}],"$L17"]}],"$L18","$L19"],"$L1a","$L1b"]}]]}]]}]}],"$L1c"]}],"$L1d"]
+16:["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","width":"15","height":"15","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"}],["$","circle",null,{"cx":"12","cy":"10","r":"2.5"}]]}]
+17:["$","span",null,{"children":"Khasra No. 385, 3rd Floor, Right Side, Chaudhary Balraj & Sons, Ghitorni, Delhi – 110030"}]
+18:["$","li","addr-2",{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","width":"15","height":"15","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"}],["$","circle",null,{"cx":"12","cy":"10","r":"2.5"}]]}]}],["$","span",null,{"children":"PID No.67-3,77/A, Koramangala Industrial Layout, JNC College Road, Bangalore-560095"}]]}]
+19:["$","li","addr-3",{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","width":"15","height":"15","fill":"none","stroke":"currentColor","strokeWidth":"2","strokeLinecap":"round","strokeLinejoin":"round","children":[["$","path",null,{"d":"M20 10c0 5-8 12-8 12S4 15 4 10a8 8 0 1 1 16 0Z"}],["$","circle",null,{"cx":"12","cy":"10","r":"2.5"}]]}]}],["$","span",null,{"children":"Unit 79 Block 5, FF FinTech PRO, Engineering House, Western Business Parkway, Dublin, D12 NRY2, Ireland"}]]}]
+1a:["$","li",null,{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":"✉"}],["$","a",null,{"href":"mailto:Sales@keydynamicssolutions.com","children":"Sales@keydynamicssolutions.com"}]]}]
+1b:["$","li",null,{"className":"site-footer-contact-item","children":[["$","span",null,{"className":"site-footer-contact-icon","aria-hidden":"true","children":"☎"}],["$","a",null,{"href":"tel:+919217719348","children":"+91 9217719348"}]]}]
+1c:["$","div",null,{"className":"mx-auto max-w-screen-2xl","children":[["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"style":{"maxWidth":"32rem"},"children":[["$","div",null,{"className":"flex items-center","children":["$","img",null,{"src":"https://uat.erpcrew.ai/api/storage/logos/01M2F031H4AF9QMJKGHMA5JGKC.webp","alt":"KDS ERP Crew","style":{"height":"3.75rem","objectFit":"contain"}}]}],["$","h3",null,{"className":"text-hero-foreground","style":{"marginTop":"1.5rem","fontSize":"1rem","fontWeight":700},"children":"About Key Dynamics Solutions (KDS)"}],["$","p",null,{"className":"text-hero-muted","style":{"marginTop":"0.5rem","fontSize":"0.875rem","lineHeight":1.625},"children":"KDS ERP Crew is an AI-powered enterprise automation platform developed and owned by Key Dynamics Solutions. KDS empowers organizations with AI, ERP, CRM, Data Analytics, and Microsoft Power Platform solutions to simplify operations, automate business processes, and accelerate digital transformation."}]]}],["$","div",null,{"className":"footer-right","children":[["$","p",null,{"className":"text-hero-foreground","style":{"fontSize":"0.875rem","fontWeight":600},"children":"Want to know more about KDS?"}],["$","p",null,{"className":"text-hero-muted","style":{"maxWidth":"20rem","fontSize":"0.875rem","lineHeight":1.625},"children":"Discover our solutions, services, and success stories by visiting the KDS website."}],["$","a",null,{"href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","className":"footer-kds-link","style":{"display":"inline-flex","alignItems":"center","gap":"0.25rem","fontSize":"0.875rem","fontWeight":600,"color":"#fff","textDecoration":"underline","textUnderlineOffset":"2px"},"children":"Visit KDS Website →"}],["$","div",null,{"className":"footer-divider"}],["$","h3",null,{"className":"text-hero-foreground","style":{"fontSize":"1rem","fontWeight":700},"children":"Connect With KDS"}],["$","p",null,{"className":"text-hero-muted","style":{"maxWidth":"20rem","fontSize":"0.875rem","lineHeight":1.625},"children":"Stay connected for the latest updates, AI innovations, ERP insights, and digital transformation stories."}],["$","div",null,{"style":{"display":"flex","alignItems":"center","gap":"1rem"},"children":[["$","a","social-0",{"href":"https://www.facebook.com/KeyDynamicsSolutions/","target":"_blank","rel":"noopener noreferrer","aria-label":"Facebook","className":"footer-social-btn","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","width":"20","height":"20","children":["$","path",null,{"d":"M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"}]}]}],["$","a","social-1",{"href":"https://www.instagram.com/keydynamicssolutions","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","className":"footer-social-btn","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","width":"20","height":"20","children":["$","path",null,{"d":"M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm6.406-11.845a1.44 1.44 0 1 0 0 2.881 1.44 1.44 0 0 0 0-2.881z"}]}]}],"$L1e","$L1f","$L20","$L21","$L22"]}]]}]]}],"$L23"]}]
+1d:["$","section",null,{"className":"site-footer-social-bar","aria-label":"Social links and copyright","children":["$","div",null,{"className":"site-footer-social-inner","children":[["$","p",null,{"className":"site-footer-social-copy","children":["© 2026 – All Rights Reserved Key Dynamics Solutions PVT LTD | ","Designed by"," ",["$","a",null,{"href":"https://keydynamicssolutions.com/","target":"_blank","rel":"noopener noreferrer","style":{"textDecoration":"underline"},"children":"KDS"}],""]}],["$","nav",null,{"className":"site-footer-social-links","aria-label":"KDS social media","children":[["$","a","bar-social-0",{"className":"site-footer-social-link site-footer-social-link--facebook","href":"https://www.facebook.com/KeyDynamicsSolutions/","target":"_blank","rel":"noopener noreferrer","aria-label":"Facebook","children":"f"}],["$","a","bar-social-1",{"className":"site-footer-social-link site-footer-social-link--instagram","href":"https://www.instagram.com/keydynamicssolutions","target":"_blank","rel":"noopener noreferrer","aria-label":"Instagram","children":"◎"}],["$","a","bar-social-2",{"className":"site-footer-social-link site-footer-social-link--youtube","href":"https://www.youtube.com/@keydynamicssolutions","target":"_blank","rel":"noopener noreferrer","aria-label":"YouTube","children":"▶"}],["$","a","bar-social-3",{"className":"site-footer-social-link site-footer-social-link--linkedin","href":"https://www.linkedin.com/company/key-dynamics-solutions/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","children":"in"}],["$","a","bar-social-4",{"className":"site-footer-social-link site-footer-social-link--x","href":"https://x.com/keydynamics_365","target":"_blank","rel":"noopener noreferrer","aria-label":"X","children":"𝕏"}],["$","a","bar-social-5",{"className":"site-footer-social-link site-footer-social-link--pinterest","href":"https://in.pinterest.com/keydynamics_365/","target":"_blank","rel":"noopener noreferrer","aria-label":"Pinterest","children":"p"}],["$","a","bar-social-6",{"className":"site-footer-social-link site-footer-social-link--medium","href":"https://keydynamicssolutionss.medium.com/","target":"_blank","rel":"noopener noreferrer","aria-label":"Medium","children":"M"}]]}]]}]}]
+1e:["$","a","social-2",{"href":"https://www.youtube.com/@keydynamicssolutions","target":"_blank","rel":"noopener noreferrer","aria-label":"YouTube","className":"footer-social-btn","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","width":"20","height":"20","children":["$","path",null,{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"}]}]}]
+1f:["$","a","social-3",{"href":"https://www.linkedin.com/company/key-dynamics-solutions/","target":"_blank","rel":"noopener noreferrer","aria-label":"LinkedIn","className":"footer-social-btn","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","width":"20","height":"20","children":["$","path",null,{"d":"M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"}]}]}]
+20:["$","a","social-4",{"href":"https://x.com/keydynamics_365","target":"_blank","rel":"noopener noreferrer","aria-label":"X","className":"footer-social-btn","children":["$","svg",null,{"xmlns":"http://www.w3.org/2000/svg","viewBox":"0 0 24 24","fill":"currentColor","width":"20","height":"20","children":["$","path",null,{"d":"M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"}]}]}]
+21:["$","a","social-5",{"href":"https://in.pinterest.com/keydynamics_365/","target":"_blank","rel":"noopener noreferrer","aria-label":"Pinterest","className":"footer-social-btn","children":["$","span",null,{"children":"p"}]}]
+22:["$","a","social-6",{"href":"https://keydynamicssolutionss.medium.com/","target":"_blank","rel":"noopener noreferrer","aria-label":"Medium","className":"footer-social-btn","children":["$","span",null,{"children":"M"}]}]
+23:["$","div",null,{"className":"footer-copyright","children":["$","p",null,{"className":"text-hero-muted","style":{"fontSize":"0.75rem"},"children":"© 2026 – All Rights Reserved Key Dynamics Solutions PVT LTD | Designed by KDS"}]}]
+24:I[5901,["681","static/chunks/681-08cca2d0fdb13ca5.js","958","static/chunks/958-35ffa5ce96db1e91.js","177","static/chunks/app/layout-593c92abea52dc32.js"],"default"]
+13:["$","$L24",null,{"logo":"https://uat.erpcrew.ai/api/storage/logos/kds-logo-header_20260914_083654445_IST_dqqc7p.webp","logoAltText":"KDS ERP Crew","ctaText":"Schedule Your AI Audit","items":[{"id":1,"label":"Home","url":"/","icon":null,"description":null,"target":"_self","children":[]},{"id":2,"label":"Agent Library","url":"/agent-library","icon":null,"description":null,"target":"_self","children":[]},{"id":3,"label":"About Us","url":"   /about-us","icon":null,"description":null,"target":"_self","children":[]}]}]

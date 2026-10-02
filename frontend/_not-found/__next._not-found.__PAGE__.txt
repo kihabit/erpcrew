@@ -1,0 +1,27 @@
+1:"$Sreact.fragment"
+2:I[2681,["681","static/chunks/681-08cca2d0fdb13ca5.js","958","static/chunks/958-35ffa5ce96db1e91.js","974","static/chunks/app/page-21e2ecd0d4fc7f82.js"],""]
+3:I[6274,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[6274,[],"ViewportBoundary"]
+9:I[6274,[],"MetadataBoundary"]
+a:I[4352,[],"IconMark"]
+c:I[8456,[],""]
+d:I[1182,[],""]
+10:I[5210,["681","static/chunks/681-08cca2d0fdb13ca5.js","958","static/chunks/958-35ffa5ce96db1e91.js","177","static/chunks/app/layout-593c92abea52dc32.js"],"default"]
+11:I[5901,["681","static/chunks/681-08cca2d0fdb13ca5.js","958","static/chunks/958-35ffa5ce96db1e91.js","177","static/chunks/app/layout-593c92abea52dc32.js"],"default"]
+:HL["/_next/static/css/4cac28f3bf5026a5.css","style"]
+:HL["/_next/static/css/f36b0ac07daac0eb.css","style"]
+:HL["/images/erp-crew-management.webp","image",{"fetchPriority":"high"}]
+7:X
+f:X
+f:C
+0:{"buildId":"Ky-5jio9BQJtTTWhv7r-5","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-semibold","style":{"color":"#051895"},"children":"404"}],["$","p",null,{"className":"mt-3 text-lg text-gray-500","children":"This page could not be found."}],["$","$L2",null,{"href":"/","className":"mt-6 inline-flex items-center rounded-full px-6 py-3 text-sm font-semibold text-white transition hover:brightness-110","style":{"backgroundColor":"#051895"},"children":"Back to Home"}]]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Enterprise AI Agent Catalogue — KDS ERP Crew"}],["$","meta","1",{"name":"description","content":"A comprehensive library of enterprise AI agents built to automate, orchestrate, and optimize business processes across Microsoft Dynamics 365."}],["$","link","2",{"rel":"icon","href":"/favicon.ico"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/4cac28f3bf5026a5.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/f36b0ac07daac0eb.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","link",null,{"rel":"preload","as":"image","href":"/images/erp-crew-management.webp","fetchPriority":"high"}]}],["$","body",null,{"className":"__className_d0be19","children":[["$","$L10",null,{"code":null}],["$","$L11",null,{"logo":"https://uat.erpcrew.ai/api/storage/logos/kds-logo-header_20260914_083654445_IST_dqqc7p.webp","logoAltText":"KDS ERP Crew","ctaText":"Schedule Your AI Audit","items":[{"id":1,"label":"Home","url":"/","icon":null,"description":null,"target":"_self","children":[]},{"id":2,"label":"Agent Library","url":"/agent-library","icon":null,"description":null,"target":"_self","children":[]},{"id":3,"label":"About Us","url":"   /about-us","icon":null,"description":null,"target":"_self","children":[]}]}],["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}],"notFound":[["$","div",null,{"className":"flex min-h-[60vh] flex-col items-center justify-center px-4 text-center","children":[["$","h1",null,{"className":"text-6xl font-semibold","style":{"color":"#051895"},"children":"404"}],["$","p",null,{"className":"mt-3 text-lg text-gray-500","children":"This page could not be found."}],["$","$L2",null,{"href":"/","className":"mt-6 inline-flex items-center rounded-full px-6 py-3 text-sm font-semibold text-white transition hover:brightness-110","style":{"backgroundColor":"#051895"},"children":"Back to Home"}]]}],[]]}]]}]]}]]}],"isPartial":"$@12","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@13","rootVaryParams":null,"needsRuntimeRequest":"$@14"}
+5:null
+7:300
+14:true
+7:C
+13:0
+b:"$undefined"
+e:"$undefined"
+12:"$undefined"
+6:"$undefined"

@@ -1,0 +1,14 @@
+{
+  "../../../../nodevenv/public_html/uat.erpcrew.ai/frontend/24/lib/node_modules/next/dist/client/index.js -> ../pages/_app": {
+    "id": 5116,
+    "files": [
+      "static/chunks/116.4530306ca0082df9.js"
+    ]
+  },
+  "../../../../nodevenv/public_html/uat.erpcrew.ai/frontend/24/lib/node_modules/next/dist/client/index.js -> ../pages/_error": {
+    "id": 9489,
+    "files": [
+      "static/chunks/489.7dc7cc15765f8556.js"
+    ]
+  }
+}

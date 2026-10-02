@@ -1,0 +1,88 @@
+<IfModule mod_rewrite.c>
+
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+
+    RewriteEngine On
+    RewriteBase /
+
+
+    # ==========================================================
+    # MAIN PRODUCTION WEBSITE
+    # ==========================================================
+
+
+    # Root Next.js page
+    RewriteRule ^$ index.html [END]
+
+
+    # ----------------------------------------------------------
+    # Authorization
+    # ----------------------------------------------------------
+
+    RewriteCond %{HTTP:Authorization} .
+    RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+
+
+    # ----------------------------------------------------------
+    # XSRF
+    # ----------------------------------------------------------
+
+    RewriteCond %{HTTP:X-XSRF-TOKEN} .
+    RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-TOKEN}]
+
+
+    # ----------------------------------------------------------
+    # Main website HTML routes
+    # ----------------------------------------------------------
+
+    RewriteCond %{DOCUMENT_ROOT}/$1.html -f
+    RewriteRule ^(.+?)/?$ $1.html [L]
+
+
+    # ----------------------------------------------------------
+    # Laravel / Filament / Livewire / API
+    # ----------------------------------------------------------
+
+    RewriteCond %{REQUEST_URI} ^/(admin|api|sanctum|livewire-[^/]+)(/|$) [NC]
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+
+
+    # ----------------------------------------------------------
+    # HTML files
+    # ----------------------------------------------------------
+
+    RewriteCond %{REQUEST_FILENAME}.html -f
+    RewriteRule ^(.*)$ $1.html [L]
+
+
+    # ----------------------------------------------------------
+    # Existing physical files
+    # ----------------------------------------------------------
+
+    RewriteCond %{REQUEST_FILENAME} -f
+    RewriteRule ^ - [L]
+
+
+    # ----------------------------------------------------------
+    # Main website 404
+    # ----------------------------------------------------------
+
+    RewriteRule ^ 404.html [END]
+
+</IfModule>
+
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/mr0nmxzvz5ba/public_html/uat.erpcrew.ai/frontend"
+PassengerBaseURI "/"
+PassengerNodejs "/home/mr0nmxzvz5ba/nodevenv/public_html/uat.erpcrew.ai/frontend/24/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION BEGIN
+<IfModule Litespeed>
+</IfModule>
+# DO NOT REMOVE OR MODIFY. CLOUDLINUX ENV VARS CONFIGURATION END
